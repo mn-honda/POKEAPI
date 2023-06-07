@@ -1,0 +1,25 @@
+body{
+    background-color: gainsboro;
+}
+
+h1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+.poke{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.img{
+    text-align: center;
+    height: 320px;
+    width: 30%;
+    background-color: aliceblue;
+    margin: 20px;
+}
